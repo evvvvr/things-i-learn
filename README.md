@@ -1,4 +1,4 @@
-# things-i-learn
+# Things I Learn
 
 My attempt to take a record of things I've studied on subject of software development and connected topics.
 
