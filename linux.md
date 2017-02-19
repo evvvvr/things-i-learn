@@ -30,3 +30,9 @@
 * [Linux Performance Tools, Brendan Gregg](https://www.youtube.com/watch?v=FJW8nGV4jxY)
   Father of all Linux perf. analysis explains how to do it starting from methodologies
   to use and not to be used to which tool should be used for which part of methodology
+
+* [htop explained](https://peteris.rocks/blog/htop/)
+
+* [Cgroups, namespaces, and beyond: what are containers made from?](https://www.youtube.com/watch?v=sK5i-N34im8)
+
+* [Myths about /dev/urandom](http://www.2uo.de/myths-about-urandom/)
