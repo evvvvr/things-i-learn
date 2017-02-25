@@ -39,4 +39,4 @@
 
 * [Xen Project Beginners Guide](https://wiki.xenproject.org/wiki/Xen_Project_Beginners_Guide)
 
-* [How Does Xen Work?](https://wiki.xenproject.org/wiki/Xen_Project_Beginners_Guide)
+* [How Does Xen Work?](http://www-archive.xenproject.org/files/Marketing/HowDoesXenWork.pdf)
