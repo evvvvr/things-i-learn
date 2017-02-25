@@ -36,3 +36,7 @@
 * [Cgroups, namespaces, and beyond: what are containers made from?](https://www.youtube.com/watch?v=sK5i-N34im8)
 
 * [Myths about /dev/urandom](http://www.2uo.de/myths-about-urandom/)
+
+* [Xen Project Beginners Guide](https://wiki.xenproject.org/wiki/Xen_Project_Beginners_Guide)
+
+* [How Does Xen Work?](https://wiki.xenproject.org/wiki/Xen_Project_Beginners_Guide)
