@@ -7,6 +7,8 @@
 
 * [Netflix JavaScript Talks - RxJS + Redux + React = Amazing!](https://www.youtube.com/watch?v=AslncyG8whg)
 
+* [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
 ## Async
 
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
@@ -23,3 +25,16 @@
   And other in series
 
 * [Getting Garbage Collection for Free](https://v8project.blogspot.com/2015/08/getting-garbage-collection-for-free.html)
+
+* [Jank Busters Part One](https://v8project.blogspot.de/2015/10/jank-busters-part-one.html)
+  Optimizing V8 garbage collection
+
+* [Jank Busters Part Two](https://v8project.blogspot.com/2016/04/jank-busters-part-two-orinoco.html)
+
+## Frontend Optimization
+
+* [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101/)
+
+* [Render-tree Construction, Layout, and Paint](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction)
+
+* [Analyzing Critical Rendering Path Performance](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/analyzing-crp) 

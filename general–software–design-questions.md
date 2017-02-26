@@ -10,3 +10,7 @@
   Joe Armstrong on what is fault-tolerant systems and what should be obeyed in
   order to build them: Isolation, Concurrency, Failure Detection, Fault Identification,
   Live Code Upgrade, and Stable Storage and how Erlang provides this means.
+
+* [Minimal API Surface Area](https://www.youtube.com/watch?v=4anAwXYqLG8)
+  Introduction of API surface area heurestic and how to work with it,
+  but a bit of opionated Facebook approach to Facebook-scale problems as a conclusion

@@ -5,6 +5,7 @@ My attempt to take a record of things I've studied on subject of software develo
 ## Topics
 
 * [Programming Languages Theory](plt.md)
+* [Algorithms](algo.md)
 * [General Software Design Questions](general–software–design-questions.md)
 * [Linux](linux.md)
 * [Networks](networks.md)
